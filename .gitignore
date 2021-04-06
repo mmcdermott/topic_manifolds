@@ -130,3 +130,6 @@ dmypy.json
 
 # tags
 tags
+
+# datasets
+sample_datasets/
